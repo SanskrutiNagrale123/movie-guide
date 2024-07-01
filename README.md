@@ -1,1 +1,1 @@
-# movie-guide-app
+Welcome to The Movie Guide App, your ultimate companion for cinema! Our website provides comprehensive and accurate information about movies, including duration, rating, genre, plot summaries, and more. Whether you're looking for detailed movie facts or seeking an honest and transparent review, our platform is designed to be your best partner in making informed viewing choices. Discover your next favorite film with ease and confidence with Movie Guide App.
